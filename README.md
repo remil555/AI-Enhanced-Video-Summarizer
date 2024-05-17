@@ -24,4 +24,7 @@ The AI Enhanced Video Summarizer is a web application developed using HTML and C
 3. **Text Generation**: GPT generates coherent text summaries based on the detected objects and context of the video.
 4. **View Summary**: Users can view the generated summary, providing them with informative insights into the video's content without watching the entire video.
 
+## Download Pretrained Weights and Scripts
+
+The pretrained weights and scripts for the project are available in this [Google Drive folder](https://drive.google.com/drive/folders/1Yz81Wwl5aY8y6fZiqwzlbOHgKXFrrYJ7?usp=drive_link).
 
