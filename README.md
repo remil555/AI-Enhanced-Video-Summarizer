@@ -18,7 +18,7 @@ The AI Enhanced Video Summarizer is a web application developed using HTML and C
 - GPT (Generative Pre-trained Transformer) for text generation
 
 ## Usage
-
+1. **To run the model**: Run main.py file
 1. **Upload Video**: Users can upload a video to the web application.
 2. **Content Analysis**: The application uses YOLO for real-time object detection to analyze the visual content of the video.
 3. **Text Generation**: GPT generates coherent text summaries based on the detected objects and context of the video.
