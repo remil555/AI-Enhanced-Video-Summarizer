@@ -23,7 +23,8 @@ The AI Enhanced Video Summarizer is a web application developed using HTML and C
 2. **Content Analysis**: The application uses YOLO for real-time object detection to analyze the visual content of the video.
 3. **Text Generation**: GPT generates coherent text summaries based on the detected objects and context of the video.
 4. **View Summary**: Users can view the generated summary, providing them with informative insights into the video's content without watching the entire video.
-5. Sample Output
+
+## Sample Output
 ![Screenshot 2024-04-07 191633](https://github.com/user-attachments/assets/3bfc0ded-c05a-4c64-8b7c-64386744702d)
 
 
